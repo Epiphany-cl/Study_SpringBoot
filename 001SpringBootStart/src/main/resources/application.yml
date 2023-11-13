@@ -1,0 +1,4 @@
+server:
+  port: 8082 # 设置内嵌Tomcat端口号
+  servlet:
+    context-path: /cl #设置上下文根[设置项目名]
